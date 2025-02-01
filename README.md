@@ -1,4 +1,4 @@
-Binary Tree and Binary Search Tree Implementation
+## Binary Tree and Binary Search Tree Implementation
 
 Developed a generic binary tree and binary search tree with duplicate
 handling in Java, implementing various traversal methods (inorder,
